@@ -1,0 +1,17 @@
+{
+    "name": "gabri/arquivo",
+    "description": "Encapsulamento, Herança, POO, getter e setters... quase java",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xacarami",
+            "email": "gabriel.plautz2018@gmail.com"
+        }
+    ],
+    "require": {}
+}
